@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mi Tienda de Ropa</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="llenar_campos">Por favor llenar los campos</string>
+    <string name="error_login">Usuario o contraseña incorrectos</string>
+    <string name="inicio">Inicio</string>
+    <string name="configuracion">Configuración</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="bienvenido">Bienvenido, %1$s</string>
+    <string name="titulo_coleccion">Nuestra Colección</string>
+</resources>
